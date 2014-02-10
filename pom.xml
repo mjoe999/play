@@ -4,7 +4,7 @@
 
     <groupId>com.github.mjoe999</groupId>
     <artifactId>play</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <name>Play Project</name>
     <description>For playing with GitHub</description>
     <url>https://github.com/mjoe999/play</url>
