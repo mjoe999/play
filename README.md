@@ -1,3 +1,3 @@
 
-Hello Joe: 0.1 Release.
+<a href="http://www.google.com">link</a> Hello Joe: 0.1 Release.
 
